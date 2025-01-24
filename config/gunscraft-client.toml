@@ -1,0 +1,10 @@
+#Render the vanilla model when rendering the gui model. Setting to true may significantly increase the FPS
+#在渲染gui模型时渲染原版的模型，设置为true可能会大幅提升FPS
+render_vanilla_model_gui = false
+#Render the vanilla model while rendering the fallen item model. Setting to true may significantly increase FPS
+#在渲染掉落物品模型时渲染原版的模型，设置为true可能会大幅提升FPS
+render_vanilla_model_ground = false
+#Enable headshot feedback: including screen effect and sound effect
+#开启头部命中反馈：包括屏幕效果和音效
+enable_headshot_feedback = true
+
