@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = false
-  world = C:/Users/Administrator/Desktop/.minecraft/versions/RIO-Forge-Beta/saves/新的世界 (2)
+  is_server = true
+  world = 192.168.50.7:25565
 }
 
